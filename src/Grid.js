@@ -1,4 +1,5 @@
 import './Grid.css';
+
 import one from './grid_assets/1.jpg';
 import two from './grid_assets/2.webp';
 import three from './grid_assets/3.webp';
