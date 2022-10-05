@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# scrimba-react-airbnb-close (WaterRNR)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screenshot](https://github.com/dkthecoder/scrimba-react-airbnb-clone/blob/master/Web%20capture_5-10-2022_182340_localhost.jpeg)
+
+Project taken from a Scrimba tutorial available here; https://scrimba.com/playlist/pqQgrcN
+
+The aim of the project is to get more familiar with using props to parse dynamic elements into ReactJS. With this project, iI have tried to implement Bootstrap 5.2.1.
 
 ## Available Scripts
 
